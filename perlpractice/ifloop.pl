@@ -7,5 +7,12 @@
 
  print "$name is  - $status\n";
 
- print "this is the new change\n" 
+
+
+ $a = 10;
+ if (exists($a)){
+  print " a value is $a \n"";
+  print "this is the new change\n" 
+ }
+
 
