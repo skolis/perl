@@ -10,9 +10,9 @@
 
 
  $a = 10;
- if (exists($a=10)){
-  print " a value is $a \n"";
-  print "this is the new change\n" 
+ if ($a == 10){
+  print " a value is $a \n";
+  print "this is the new change\n";
  }
 
 
